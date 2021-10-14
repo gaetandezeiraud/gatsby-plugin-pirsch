@@ -27,5 +27,5 @@ plugins: [
 
 ## Credits
 
-Inspired by https://github.com/phiilu/gatsby-plugin-umami
-Thanks to the pirsch.io team for their work!
+Inspired by https://github.com/phiilu/gatsby-plugin-umami   
+Thanks to the pirsch.io team for their work! https://docs.pirsch.io/integrations/gatsby/
